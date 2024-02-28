@@ -53,9 +53,9 @@ cd minecraftserver
 ```
 chmod +x *
 ```
-* Run the Installation Script:
+* Run the Installation Script: (if you use ubuntu or any debian based distro)
 ```
-./install
+./install-ubuntu
 ```
 Follow the installation step shown in the console
 * Run the Start Server Script:
